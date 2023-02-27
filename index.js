@@ -98,6 +98,14 @@ if(giril <= DalVat);
 console.log('amar to giril khawo tk nai');
 
 
+var price1 = 15;
+var price2 = 10;
+
+if(price1 < price2);
+console.log('amar Sonar Bangal');
+console.log(price1<price2);
+
+
 
 
 
