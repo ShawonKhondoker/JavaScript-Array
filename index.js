@@ -57,8 +57,49 @@ var firstArray9 =["Alu","Potol","Tomatu","Gajor" ];
 var var1 =23;
 var1=var1+20;
 var1+=10;
-
 console.log(var1);
+
+// compawer
+
+var name1 =30;
+var name2 =40;
+var name3 =30;
+
+var fullName =name1 >name2;
+console.log(fullName);
+
+console.log(name1 > name2);
+console.log(name1 >= name2);
+console.log(name1 < name2);
+console.log(name1 <= name2);
+console.log(name1 === name2);
+console.log(name1 != name2);
+
+console.log(name1 > name3);
+console.log(name1 != name3);
+console.log(name1 === name3);
+console.log('name1'+ ' '+'name3');
+
+
+//If 
+
+var avabila = 300;
+var giril = 500;
+var DalVat = 300;
+
+// if(Condition){
+//     console.log()
+// }
+
+if(avabila != giril);
+console.log('Shawon');
+
+if(giril <= DalVat);
+console.log('amar to giril khawo tk nai');
+
+
+
+
 
 
 
